@@ -1,0 +1,287 @@
+{
+  "name": "Maharashtra Districts (16)",
+  "warehouses": [
+    "PUN",
+    "NAG"
+  ],
+  "areas": [
+    {
+      "id": "PUN",
+      "name": "Pune (Warehouse)",
+      "population": 9430000,
+      "risk": 0.4,
+      "doses_required": 0,
+      "x": 73.86,
+      "y": 18.52
+    },
+    {
+      "id": "NAG",
+      "name": "Nagpur (Warehouse)",
+      "population": 4650000,
+      "risk": 0.35,
+      "doses_required": 0,
+      "x": 79.09,
+      "y": 21.15
+    },
+    {
+      "id": "MUM",
+      "name": "Mumbai",
+      "population": 12440000,
+      "risk": 0.85,
+      "doses_required": 250,
+      "x": 72.88,
+      "y": 19.08
+    },
+    {
+      "id": "THA",
+      "name": "Thane",
+      "population": 11060000,
+      "risk": 0.75,
+      "doses_required": 220,
+      "x": 72.97,
+      "y": 19.2
+    },
+    {
+      "id": "NAS",
+      "name": "Nashik",
+      "population": 6110000,
+      "risk": 0.55,
+      "doses_required": 120,
+      "x": 73.79,
+      "y": 20.0
+    },
+    {
+      "id": "AUR",
+      "name": "Aurangabad",
+      "population": 3700000,
+      "risk": 0.6,
+      "doses_required": 75,
+      "x": 75.34,
+      "y": 19.88
+    },
+    {
+      "id": "SOL",
+      "name": "Solapur",
+      "population": 4320000,
+      "risk": 0.45,
+      "doses_required": 85,
+      "x": 75.91,
+      "y": 17.66
+    },
+    {
+      "id": "KOL",
+      "name": "Kolhapur",
+      "population": 3880000,
+      "risk": 0.35,
+      "doses_required": 80,
+      "x": 74.24,
+      "y": 16.7
+    },
+    {
+      "id": "AMR",
+      "name": "Amravati",
+      "population": 2890000,
+      "risk": 0.5,
+      "doses_required": 60,
+      "x": 77.75,
+      "y": 20.93
+    },
+    {
+      "id": "NAN",
+      "name": "Nanded",
+      "population": 3360000,
+      "risk": 0.4,
+      "doses_required": 65,
+      "x": 77.32,
+      "y": 19.15
+    },
+    {
+      "id": "SAT",
+      "name": "Satara",
+      "population": 3000000,
+      "risk": 0.3,
+      "doses_required": 60,
+      "x": 74.0,
+      "y": 17.68
+    },
+    {
+      "id": "AHM",
+      "name": "Ahmednagar",
+      "population": 4540000,
+      "risk": 0.5,
+      "doses_required": 90,
+      "x": 74.74,
+      "y": 19.09
+    },
+    {
+      "id": "JAL",
+      "name": "Jalgaon",
+      "population": 4230000,
+      "risk": 0.45,
+      "doses_required": 85,
+      "x": 75.56,
+      "y": 21.0
+    },
+    {
+      "id": "LAT",
+      "name": "Latur",
+      "population": 2450000,
+      "risk": 0.55,
+      "doses_required": 50,
+      "x": 76.56,
+      "y": 18.4
+    },
+    {
+      "id": "RAT",
+      "name": "Ratnagiri",
+      "population": 1620000,
+      "risk": 0.25,
+      "doses_required": 30,
+      "x": 73.3,
+      "y": 16.99
+    },
+    {
+      "id": "AKO",
+      "name": "Akola",
+      "population": 1810000,
+      "risk": 0.6,
+      "doses_required": 35,
+      "x": 77.0,
+      "y": 20.7
+    }
+  ],
+  "roads": [
+    {
+      "u": "MUM",
+      "v": "THA",
+      "distance_km": 25,
+      "capacity": 120
+    },
+    {
+      "u": "MUM",
+      "v": "PUN",
+      "distance_km": 150,
+      "capacity": 100
+    },
+    {
+      "u": "THA",
+      "v": "NAS",
+      "distance_km": 150,
+      "capacity": 80
+    },
+    {
+      "u": "PUN",
+      "v": "NAS",
+      "distance_km": 210,
+      "capacity": 60
+    },
+    {
+      "u": "PUN",
+      "v": "AHM",
+      "distance_km": 120,
+      "capacity": 70
+    },
+    {
+      "u": "PUN",
+      "v": "SAT",
+      "distance_km": 110,
+      "capacity": 80
+    },
+    {
+      "u": "SAT",
+      "v": "KOL",
+      "distance_km": 125,
+      "capacity": 70
+    },
+    {
+      "u": "KOL",
+      "v": "RAT",
+      "distance_km": 130,
+      "capacity": 30
+    },
+    {
+      "u": "MUM",
+      "v": "RAT",
+      "distance_km": 330,
+      "capacity": 40
+    },
+    {
+      "u": "PUN",
+      "v": "SOL",
+      "distance_km": 250,
+      "capacity": 70
+    },
+    {
+      "u": "SOL",
+      "v": "LAT",
+      "distance_km": 110,
+      "capacity": 40
+    },
+    {
+      "u": "LAT",
+      "v": "NAN",
+      "distance_km": 140,
+      "capacity": 40
+    },
+    {
+      "u": "AHM",
+      "v": "AUR",
+      "distance_km": 115,
+      "capacity": 60
+    },
+    {
+      "u": "NAS",
+      "v": "AUR",
+      "distance_km": 180,
+      "capacity": 50
+    },
+    {
+      "u": "AUR",
+      "v": "JAL",
+      "distance_km": 160,
+      "capacity": 50
+    },
+    {
+      "u": "AUR",
+      "v": "NAN",
+      "distance_km": 270,
+      "capacity": 40
+    },
+    {
+      "u": "JAL",
+      "v": "AKO",
+      "distance_km": 230,
+      "capacity": 40
+    },
+    {
+      "u": "AKO",
+      "v": "AMR",
+      "distance_km": 100,
+      "capacity": 60
+    },
+    {
+      "u": "AMR",
+      "v": "NAG",
+      "distance_km": 155,
+      "capacity": 80
+    },
+    {
+      "u": "AHM",
+      "v": "SOL",
+      "distance_km": 230,
+      "capacity": 40
+    },
+    {
+      "u": "NAS",
+      "v": "JAL",
+      "distance_km": 250,
+      "capacity": 40
+    },
+    {
+      "u": "AKO",
+      "v": "NAN",
+      "distance_km": 250,
+      "capacity": 30
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "name": "Large Region (40 areas, generated)",
+  "warehouses": [
+    "A0",
+    "A1"
+  ],
+  "areas": [
+    {
+      "id": "A0",
+      "name": "Warehouse A0",
+      "population": 89890,
+      "risk": 0.9,
+      "doses_required": 14,
+      "x": 65.1,
+      "y": 7.2
+    },
+    {
+      "id": "A1",
+      "name": "Warehouse A1",
+      "population": 145478,
+      "risk": 0.13,
+      "doses_required": 20,
+      "x": 5.8,
+      "y": 50.7
+    },
+    {
+      "id": "A2",
+      "name": "Area 2",
+      "population": 14829,
+      "risk": 0.13,
+      "doses_required": 15,
+      "x": 7.0,
+      "y": 9.1
+    },
+    {
+      "id": "A3",
+      "name": "Area 3",
+      "population": 116285,
+      "risk": 0.1,
+      "doses_required": 20,
+      "x": 12.4,
+      "y": 22.3
+    },
+    {
+      "id": "A4",
+      "name": "Area 4",
+      "population": 169477,
+      "risk": 0.57,
+      "doses_required": 3,
+      "x": 57.7,
+      "y": 39.7
+    },
+    {
+      "id": "A5",
+      "name": "Area 5",
+      "population": 62955,
+      "risk": 0.09,
+      "doses_required": 29,
+      "x": 13.3,
+      "y": 41.9
+    },
+    {
+      "id": "A6",
+      "name": "Area 6",
+      "population": 146737,
+      "risk": 0.16,
+      "doses_required": 11,
+      "x": 56.0,
+      "y": 68.2
+    },
+    {
+      "id": "A7",
+      "name": "Area 7",
+      "population": 32015,
+      "risk": 0.57,
+      "doses_required": 22,
+      "x": 18.8,
+      "y": 9.7
+    },
+    {
+      "id": "A8",
+      "name": "Area 8",
+      "population": 191675,
+      "risk": 0.11,
+      "doses_required": 3,
+      "x": 61.9,
+      "y": 49.6
+    },
+    {
+      "id": "A9",
+      "name": "Area 9",
+      "population": 144387,
+      "risk": 0.43,
+      "doses_required": 12,
+      "x": 46.6,
+      "y": 92.3
+    },
+    {
+      "id": "A10",
+      "name": "Area 10",
+      "population": 99786,
+      "risk": 0.32,
+      "doses_required": 27,
+      "x": 18.0,
+      "y": 78.0
+    },
+    {
+      "id": "A11",
+      "name": "Area 11",
+      "population": 26457,
+      "risk": 0.57,
+      "doses_required": 18,
+      "x": 49.5,
+      "y": 34.3
+    },
+    {
+      "id": "A12",
+      "name": "Area 12",
+      "population": 122659,
+      "risk": 0.31,
+      "doses_required": 4,
+      "x": 11.8,
+      "y": 41.8
+    },
+    {
+      "id": "A13",
+      "name": "Area 13",
+      "population": 94667,
+      "risk": 0.19,
+      "doses_required": 17,
+      "x": 42.2,
+      "y": 96.2
+    },
+    {
+      "id": "A14",
+      "name": "Area 14",
+      "population": 25347,
+      "risk": 0.74,
+      "doses_required": 20,
+      "x": 78.9,
+      "y": 81.8
+    },
+    {
+      "id": "A15",
+      "name": "Area 15",
+      "population": 94161,
+      "risk": 0.68,
+      "doses_required": 21,
+      "x": 49.7,
+      "y": 79.7
+    },
+    {
+      "id": "A16",
+      "name": "Area 16",
+      "population": 23025,
+      "risk": 0.81,
+      "doses_required": 10,
+      "x": 47.4,
+      "y": 66.4
+    },
+    {
+      "id": "A17",
+      "name": "Area 17",
+      "population": 20904,
+      "risk": 0.71,
+      "doses_required": 11,
+      "x": 64.7,
+      "y": 99.3
+    },
+    {
+      "id": "A18",
+      "name": "Area 18",
+      "population": 121822,
+      "risk": 0.31,
+      "doses_required": 14,
+      "x": 88.7,
+      "y": 34.7
+    },
+    {
+      "id": "A19",
+      "name": "Area 19",
+      "population": 126030,
+      "risk": 0.37,
+      "doses_required": 21,
+      "x": 11.7,
+      "y": 5.9
+    },
+    {
+      "id": "A20",
+      "name": "Area 20",
+      "population": 80348,
+      "risk": 0.17,
+      "doses_required": 9,
+      "x": 39.8,
+      "y": 91.7
+    },
+    {
+      "id": "A21",
+      "name": "Area 21",
+      "population": 135156,
+      "risk": 0.12,
+      "doses_required": 16,
+      "x": 40.2,
+      "y": 27.8
+    },
+    {
+      "id": "A22",
+      "name": "Area 22",
+      "population": 40894,
+      "risk": 0.79,
+      "doses_required": 29,
+      "x": 55.0,
+      "y": 70.6
+    },
+    {
+      "id": "A23",
+      "name": "Area 23",
+      "population": 99049,
+      "risk": 0.66,
+      "doses_required": 14,
+      "x": 95.8,
+      "y": 15.1
+    },
+    {
+      "id": "A24",
+      "name": "Area 24",
+      "population": 51194,
+      "risk": 0.19,
+      "doses_required": 23,
+      "x": 23.3,
+      "y": 48.5
+    },
+    {
+      "id": "A25",
+      "name": "Area 25",
+      "population": 159435,
+      "risk": 0.21,
+      "doses_required": 11,
+      "x": 0.4,
+      "y": 41.9
+    },
+    {
+      "id": "A26",
+      "name": "Area 26",
+      "population": 101797,
+      "risk": 0.6,
+      "doses_required": 12,
+      "x": 95.3,
+      "y": 69.0
+    },
+    {
+      "id": "A27",
+      "name": "Area 27",
+      "population": 140132,
+      "risk": 0.91,
+      "doses_required": 22,
+      "x": 67.6,
+      "y": 5.4
+    },
+    {
+      "id": "A28",
+      "name": "Area 28",
+      "population": 183408,
+      "risk": 0.77,
+      "doses_required": 14,
+      "x": 39.8,
+      "y": 39.4
+    },
+    {
+      "id": "A29",
+      "name": "Area 29",
+      "population": 131228,
+      "risk": 0.62,
+      "doses_required": 3,
+      "x": 19.1,
+      "y": 98.5
+    },
+    {
+      "id": "A30",
+      "name": "Area 30",
+      "population": 120507,
+      "risk": 0.2,
+      "doses_required": 12,
+      "x": 60.1,
+      "y": 10.2
+    },
+    {
+      "id": "A31",
+      "name": "Area 31",
+      "population": 153578,
+      "risk": 0.19,
+      "doses_required": 5,
+      "x": 94.9,
+      "y": 61.4
+    },
+    {
+      "id": "A32",
+      "name": "Area 32",
+      "population": 23432,
+      "risk": 0.84,
+      "doses_required": 21,
+      "x": 37.6,
+      "y": 63.4
+    },
+    {
+      "id": "A33",
+      "name": "Area 33",
+      "population": 96066,
+      "risk": 0.59,
+      "doses_required": 17,
+      "x": 12.3,
+      "y": 84.9
+    },
+    {
+      "id": "A34",
+      "name": "Area 34",
+      "population": 127156,
+      "risk": 0.48,
+      "doses_required": 11,
+      "x": 8.6,
+      "y": 10.2
+    },
+    {
+      "id": "A35",
+      "name": "Area 35",
+      "population": 94819,
+      "risk": 0.72,
+      "doses_required": 17,
+      "x": 82.9,
+      "y": 16.1
+    },
+    {
+      "id": "A36",
+      "name": "Area 36",
+      "population": 11054,
+      "risk": 0.23,
+      "doses_required": 18,
+      "x": 36.2,
+      "y": 69.0
+    },
+    {
+      "id": "A37",
+      "name": "Area 37",
+      "population": 12089,
+      "risk": 0.73,
+      "doses_required": 11,
+      "x": 97.9,
+      "y": 86.3
+    },
+    {
+      "id": "A38",
+      "name": "Area 38",
+      "population": 187503,
+      "risk": 0.81,
+      "doses_required": 18,
+      "x": 36.7,
+      "y": 16.7
+    },
+    {
+      "id": "A39",
+      "name": "Area 39",
+      "population": 63403,
+      "risk": 0.53,
+      "doses_required": 26,
+      "x": 50.3,
+      "y": 63.6
+    }
+  ],
+  "roads": [
+    {
+      "u": "A1",
+      "v": "A0",
+      "distance_km": 73.5,
+      "capacity": 20
+    },
+    {
+      "u": "A2",
+      "v": "A1",
+      "distance_km": 41.6,
+      "capacity": 19
+    },
+    {
+      "u": "A3",
+      "v": "A0",
+      "distance_km": 54.8,
+      "capacity": 38
+    },
+    {
+      "u": "A4",
+      "v": "A3",
+      "distance_km": 48.5,
+      "capacity": 27
+    },
+    {
+      "u": "A5",
+      "v": "A0",
+      "distance_km": 62.3,
+      "capacity": 6
+    },
+    {
+      "u": "A6",
+      "v": "A2",
+      "distance_km": 76.8,
+      "capacity": 35
+    },
+    {
+      "u": "A7",
+      "v": "A2",
+      "distance_km": 11.8,
+      "capacity": 17
+    },
+    {
+      "u": "A8",
+      "v": "A5",
+      "distance_km": 49.2,
+      "capacity": 33
+    },
+    {
+      "u": "A9",
+      "v": "A5",
+      "distance_km": 60.4,
+      "capacity": 28
+    },
+    {
+      "u": "A10",
+      "v": "A1",
+      "distance_km": 29.9,
+      "capacity": 19
+    },
+    {
+      "u": "A11",
+      "v": "A1",
+      "distance_km": 46.7,
+      "capacity": 19
+    },
+    {
+      "u": "A12",
+      "v": "A7",
+      "distance_km": 32.9,
+      "capacity": 17
+    },
+    {
+      "u": "A13",
+      "v": "A5",
+      "distance_km": 61.5,
+      "capacity": 18
+    },
+    {
+      "u": "A14",
+      "v": "A7",
+      "distance_km": 93.9,
+      "capacity": 5
+    },
+    {
+      "u": "A15",
+      "v": "A7",
+      "distance_km": 76.5,
+      "capacity": 27
+    },
+    {
+      "u": "A16",
+      "v": "A2",
+      "distance_km": 70.1,
+      "capacity": 12
+    },
+    {
+      "u": "A17",
+      "v": "A12",
+      "distance_km": 78.1,
+      "capacity": 17
+    },
+    {
+      "u": "A18",
+      "v": "A15",
+      "distance_km": 59.5,
+      "capacity": 16
+    },
+    {
+      "u": "A19",
+      "v": "A13",
+      "distance_km": 95.3,
+      "capacity": 26
+    },
+    {
+      "u": "A20",
+      "v": "A2",
+      "distance_km": 88.9,
+      "capacity": 30
+    },
+    {
+      "u": "A21",
+      "v": "A14",
+      "distance_km": 66.4,
+      "capacity": 30
+    },
+    {
+      "u": "A22",
+      "v": "A2",
+      "distance_km": 78.0,
+      "capacity": 15
+    },
+    {
+      "u": "A23",
+      "v": "A5",
+      "distance_km": 86.7,
+      "capacity": 13
+    },
+    {
+      "u": "A24",
+      "v": "A0",
+      "distance_km": 58.8,
+      "capacity": 14
+    },
+    {
+      "u": "A25",
+      "v": "A18",
+      "distance_km": 88.6,
+      "capacity": 34
+    },
+    {
+      "u": "A26",
+      "v": "A25",
+      "distance_km": 98.7,
+      "capacity": 14
+    },
+    {
+      "u": "A27",
+      "v": "A19",
+      "distance_km": 55.9,
+      "capacity": 35
+    },
+    {
+      "u": "A28",
+      "v": "A21",
+      "distance_km": 11.6,
+      "capacity": 27
+    },
+    {
+      "u": "A29",
+      "v": "A4",
+      "distance_km": 70.3,
+      "capacity": 40
+    },
+    {
+      "u": "A30",
+      "v": "A17",
+      "distance_km": 89.2,
+      "capacity": 13
+    },
+    {
+      "u": "A31",
+      "v": "A0",
+      "distance_km": 61.9,
+      "capacity": 5
+    },
+    {
+      "u": "A32",
+      "v": "A6",
+      "distance_km": 19.0,
+      "capacity": 38
+    },
+    {
+      "u": "A33",
+      "v": "A8",
+      "distance_km": 60.9,
+      "capacity": 32
+    },
+    {
+      "u": "A34",
+      "v": "A12",
+      "distance_km": 31.8,
+      "capacity": 18
+    },
+    {
+      "u": "A35",
+      "v": "A1",
+      "distance_km": 84.5,
+      "capacity": 21
+    },
+    {
+      "u": "A36",
+      "v": "A13",
+      "distance_km": 27.9,
+      "capacity": 23
+    },
+    {
+      "u": "A37",
+      "v": "A32",
+      "distance_km": 64.5,
+      "capacity": 20
+    },
+    {
+      "u": "A38",
+      "v": "A37",
+      "distance_km": 92.7,
+      "capacity": 25
+    },
+    {
+      "u": "A39",
+      "v": "A16",
+      "distance_km": 4.0,
+      "capacity": 39
+    },
+    {
+      "u": "A26",
+      "v": "A31",
+      "distance_km": 7.6,
+      "capacity": 8
+    },
+    {
+      "u": "A22",
+      "v": "A39",
+      "distance_km": 8.4,
+      "capacity": 38
+    },
+    {
+      "u": "A26",
+      "v": "A14",
+      "distance_km": 20.8,
+      "capacity": 13
+    },
+    {
+      "u": "A34",
+      "v": "A2",
+      "distance_km": 1.9,
+      "capacity": 38
+    },
+    {
+      "u": "A32",
+      "v": "A36",
+      "distance_km": 5.8,
+      "capacity": 33
+    },
+    {
+      "u": "A11",
+      "v": "A21",
+      "distance_km": 11.3,
+      "capacity": 5
+    },
+    {
+      "u": "A9",
+      "v": "A13",
+      "distance_km": 5.9,
+      "capacity": 14
+    },
+    {
+      "u": "A30",
+      "v": "A35",
+      "distance_km": 23.6,
+      "capacity": 12
+    },
+    {
+      "u": "A35",
+      "v": "A23",
+      "distance_km": 12.9,
+      "capacity": 25
+    },
+    {
+      "u": "A33",
+      "v": "A20",
+      "distance_km": 28.3,
+      "capacity": 40
+    },
+    {
+      "u": "A30",
+      "v": "A0",
+      "distance_km": 5.8,
+      "capacity": 40
+    },
+    {
+      "u": "A3",
+      "v": "A34",
+      "distance_km": 12.7,
+      "capacity": 17
+    },
+    {
+      "u": "A17",
+      "v": "A9",
+      "distance_km": 19.4,
+      "capacity": 11
+    },
+    {
+      "u": "A32",
+      "v": "A16",
+      "distance_km": 10.2,
+      "capacity": 40
+    },
+    {
+      "u": "A1",
+      "v": "A25",
+      "distance_km": 10.3,
+      "capacity": 33
+    },
+    {
+      "u": "A20",
+      "v": "A15",
+      "distance_km": 15.6,
+      "capacity": 37
+    },
+    {
+      "u": "A38",
+      "v": "A11",
+      "distance_km": 21.8,
+      "capacity": 17
+    },
+    {
+      "u": "A17",
+      "v": "A14",
+      "distance_km": 22.5,
+      "capacity": 37
+    },
+    {
+      "u": "A34",
+      "v": "A19",
+      "distance_km": 5.3,
+      "capacity": 37
+    },
+    {
+      "u": "A15",
+      "v": "A6",
+      "distance_km": 13.1,
+      "capacity": 38
+    },
+    {
+      "u": "A16",
+      "v": "A6",
+      "distance_km": 8.8,
+      "capacity": 17
+    },
+    {
+      "u": "A28",
+      "v": "A11",
+      "distance_km": 11.0,
+      "capacity": 31
+    },
+    {
+      "u": "A7",
+      "v": "A34",
+      "distance_km": 10.2,
+      "capacity": 33
+    },
+    {
+      "u": "A20",
+      "v": "A13",
+      "distance_km": 5.1,
+      "capacity": 20
+    }
+  ]
+}

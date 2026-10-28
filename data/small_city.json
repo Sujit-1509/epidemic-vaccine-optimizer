@@ -1,0 +1,151 @@
+{
+  "name": "Small City (9 areas)",
+  "warehouses": [
+    "WH"
+  ],
+  "areas": [
+    {
+      "id": "WH",
+      "name": "Central Medical Store",
+      "population": 20000,
+      "risk": 0.1,
+      "doses_required": 0,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": "A",
+      "name": "Old Town",
+      "population": 85000,
+      "risk": 0.8,
+      "doses_required": 12,
+      "x": 35,
+      "y": 70
+    },
+    {
+      "id": "B",
+      "name": "Riverside",
+      "population": 60000,
+      "risk": 0.65,
+      "doses_required": 9,
+      "x": 20,
+      "y": 85
+    },
+    {
+      "id": "C",
+      "name": "Market Hub",
+      "population": 120000,
+      "risk": 0.7,
+      "doses_required": 18,
+      "x": 60,
+      "y": 75
+    },
+    {
+      "id": "D",
+      "name": "Hillview",
+      "population": 30000,
+      "risk": 0.3,
+      "doses_required": 5,
+      "x": 45,
+      "y": 95
+    },
+    {
+      "id": "E",
+      "name": "Industrial Zone",
+      "population": 70000,
+      "risk": 0.55,
+      "doses_required": 10,
+      "x": 75,
+      "y": 35
+    },
+    {
+      "id": "F",
+      "name": "University Area",
+      "population": 45000,
+      "risk": 0.45,
+      "doses_required": 7,
+      "x": 85,
+      "y": 60
+    },
+    {
+      "id": "G",
+      "name": "Outer Village",
+      "population": 15000,
+      "risk": 0.9,
+      "doses_required": 3,
+      "x": 10,
+      "y": 20
+    },
+    {
+      "id": "H",
+      "name": "Island Colony",
+      "population": 8000,
+      "risk": 0.75,
+      "doses_required": 2,
+      "x": 25,
+      "y": 10
+    }
+  ],
+  "roads": [
+    {
+      "u": "WH",
+      "v": "A",
+      "distance_km": 3,
+      "capacity": 15
+    },
+    {
+      "u": "WH",
+      "v": "C",
+      "distance_km": 4,
+      "capacity": 20
+    },
+    {
+      "u": "WH",
+      "v": "E",
+      "distance_km": 6,
+      "capacity": 10
+    },
+    {
+      "u": "A",
+      "v": "B",
+      "distance_km": 2,
+      "capacity": 8
+    },
+    {
+      "u": "A",
+      "v": "C",
+      "distance_km": 3,
+      "capacity": 10
+    },
+    {
+      "u": "C",
+      "v": "D",
+      "distance_km": 5,
+      "capacity": 6
+    },
+    {
+      "u": "C",
+      "v": "F",
+      "distance_km": 4,
+      "capacity": 8
+    },
+    {
+      "u": "E",
+      "v": "F",
+      "distance_km": 3,
+      "capacity": 6
+    },
+    {
+      "u": "B",
+      "v": "D",
+      "distance_km": 4,
+      "capacity": 5
+    },
+    {
+      "u": "G",
+      "v": "H",
+      "distance_km": 2,
+      "capacity": 4
+    }
+  ]
+}
